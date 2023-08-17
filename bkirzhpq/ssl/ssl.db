@@ -1,0 +1,50 @@
+--- 
+files: 
+  certificate: 
+    sitegroupels_wordifysites_com_c951a_efb47_1699988356_97a0a04dccd4d083f8a733cb885f3e19: 
+      created: '1692215958'
+      domains: 
+        - sitegroupels.wordifysites.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “sitegroupels.wordifysites.com”
+      id: sitegroupels_wordifysites_com_c951a_efb47_1699988356_97a0a04dccd4d083f8a733cb885f3e19
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: c951a7fa19d6d7a75d01620faa2cec4a5362be00a11c1ee12296133a1c10f318db7635eb7bc92259d658dbad08312e3d85db318b79d4580949e14e20daef7adbe85e4767cb067492112e984a747551e540592894a68b2923d3912786a9446e87b776585ef276d7acebe585b7b3812d35bbef12b51369dc800f3bfe8dfab90cbb8e1a5b3e773f0a84a0bc0ff79bbc70fbb37edc762cea3a0d9fd0c3168bb966976bd4176d554d0674c03a0770a5693fa013b4fd8cbb0d9f27687af521c1af4b726e4e3558d7f62f799b78e922c1da5ab7a6259870e7b6cdef03a21cf43efab5b0e3a5d46c82049d5121c5450cd23ee607952ac38d7bcc2b8056025f2c234efb47
+      modulus_length: 2048
+      not_after: '1699988356'
+      not_before: '1692212357'
+      serial: 0460f8e30d5bfb3f304207400670c9cd81d3
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: sitegroupels.wordifysites.com
+      validation_type: dv
+  key: 
+    c951a_efb47_be64141b9b8ac991c037e16b82a695d0: 
+      created: '1692215958'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “sitegroupels.wordifysites.com”
+      id: c951a_efb47_be64141b9b8ac991c037e16b82a695d0
+      key_algorithm: rsaEncryption
+      modulus: c951a7fa19d6d7a75d01620faa2cec4a5362be00a11c1ee12296133a1c10f318db7635eb7bc92259d658dbad08312e3d85db318b79d4580949e14e20daef7adbe85e4767cb067492112e984a747551e540592894a68b2923d3912786a9446e87b776585ef276d7acebe585b7b3812d35bbef12b51369dc800f3bfe8dfab90cbb8e1a5b3e773f0a84a0bc0ff79bbc70fbb37edc762cea3a0d9fd0c3168bb966976bd4176d554d0674c03a0770a5693fa013b4fd8cbb0d9f27687af521c1af4b726e4e3558d7f62f799b78e922c1da5ab7a6259870e7b6cdef03a21cf43efab5b0e3a5d46c82049d5121c5450cd23ee607952ac38d7bcc2b8056025f2c234efb47
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      c951a7fa19d6d7a75d01620faa2cec4a5362be00a11c1ee12296133a1c10f318db7635eb7bc92259d658dbad08312e3d85db318b79d4580949e14e20daef7adbe85e4767cb067492112e984a747551e540592894a68b2923d3912786a9446e87b776585ef276d7acebe585b7b3812d35bbef12b51369dc800f3bfe8dfab90cbb8e1a5b3e773f0a84a0bc0ff79bbc70fbb37edc762cea3a0d9fd0c3168bb966976bd4176d554d0674c03a0770a5693fa013b4fd8cbb0d9f27687af521c1af4b726e4e3558d7f62f799b78e922c1da5ab7a6259870e7b6cdef03a21cf43efab5b0e3a5d46c82049d5121c5450cd23ee607952ac38d7bcc2b8056025f2c234efb47: 
+        sitegroupels_wordifysites_com_c951a_efb47_1699988356_97a0a04dccd4d083f8a733cb885f3e19: ~
+    subject.commonName: 
+      sitegroupels.wordifysites.com: 
+        sitegroupels_wordifysites_com_c951a_efb47_1699988356_97a0a04dccd4d083f8a733cb885f3e19: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “sitegroupels.wordifysites.com”: sitegroupels_wordifysites_com_c951a_efb47_1699988356_97a0a04dccd4d083f8a733cb885f3e19
+  key: 
+    friendly_name: 
+      Key for “sitegroupels.wordifysites.com”: c951a_efb47_be64141b9b8ac991c037e16b82a695d0
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      c951a7fa19d6d7a75d01620faa2cec4a5362be00a11c1ee12296133a1c10f318db7635eb7bc92259d658dbad08312e3d85db318b79d4580949e14e20daef7adbe85e4767cb067492112e984a747551e540592894a68b2923d3912786a9446e87b776585ef276d7acebe585b7b3812d35bbef12b51369dc800f3bfe8dfab90cbb8e1a5b3e773f0a84a0bc0ff79bbc70fbb37edc762cea3a0d9fd0c3168bb966976bd4176d554d0674c03a0770a5693fa013b4fd8cbb0d9f27687af521c1af4b726e4e3558d7f62f799b78e922c1da5ab7a6259870e7b6cdef03a21cf43efab5b0e3a5d46c82049d5121c5450cd23ee607952ac38d7bcc2b8056025f2c234efb47: c951a_efb47_be64141b9b8ac991c037e16b82a695d0

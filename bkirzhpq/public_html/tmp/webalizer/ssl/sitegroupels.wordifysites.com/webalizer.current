@@ -1,0 +1,254 @@
+# Webalizer V2.23-08 Incremental Data - 08/16/2023 20:12:21
+2023 8 16 20 12 21
+74 58 5 46 3 5 373354 5 4 1
+5 74 74 16 16
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+74 58 373354 5 5 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+74 58 373354 5
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+58
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+14
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wp-includes/js/clipboard.min.js
+0 1 17009488 3148 0 0
+/wp-includes/js/dist/date.min.js
+0 1 17032032 52117 0 0
+/wp-admin/js/dashboard.min.js
+0 1 17030864 3070 0 0
+/wp-admin/js/common.min.js
+0 1 17009232 6649 0 0
+/wp-includes/js/thickbox/thickbox.js
+0 1 17030736 4031 0 0
+/wp-includes/js/thickbox/thickbox.css
+0 1 17010000 944 0 0
+/wp-includes/js/shortcode.min.js
+0 1 17030464 1145 0 0
+/wp-includes/js/wp-lists.min.js
+0 1 17007696 2537 0 0
+/wp-includes/js/jquery/jquery.query.js
+0 1 17008464 1627 0 0
+/wp-admin/load-scripts.php
+0 2 17032288 47722 0 0
+/wp-includes/js/jquery/ui/sortable.min.js
+0 1 17030064 6650 0 0
+/wp-includes/js/dist/i18n.min.js
+0 1 17008336 3691 0 0
+/wp-admin/js/plugin-install.min.js
+0 1 17029680 1021 0 0
+/wp-includes/js/underscore.min.js
+0 1 17008848 7337 0 0
+/wp-includes/css/editor.min.css
+0 1 17009360 5952 0 0
+/wp-admin/
+0 1 17024048 17122 1 0
+/wp-includes/js/wp-auth-check.min.js
+0 1 17029424 775 0 0
+/wp-admin/load-styles.php
+0 1 17032416 101514 0 0
+/wp-includes/js/dist/vendor/moment.min.js
+0 1 17031760 18687 0 0
+/wp-includes/js/heartbeat.min.js
+0 1 17031376 2025 0 0
+/wp-includes/js/dist/a11y.min.js
+0 1 17009104 962 0 0
+/wp-includes/js/wp-ajax-response.min.js
+0 1 17008976 1080 0 0
+/wp-includes/js/jquery/ui/mouse.min.js
+0 1 17031120 1094 0 0
+/wp-includes/js/wp-sanitize.min.js
+0 1 17029808 284 0 0
+/wp-includes/js/jquery/ui/core.min.js
+0 1 17030208 7116 0 0
+/wp-includes/js/wp-util.min.js
+0 1 17008720 756 0 0
+/wp-admin/js/updates.min.js
+0 1 17030992 9285 0 0
+/wp-admin/js/site-health.min.js
+0 1 17009872 2161 0 0
+/wp-admin/js/edit-comments.min.js
+0 1 17031904 5121 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 1 17032544 5114 0 0
+/wp-admin/js/postbox.min.js
+0 1 17029936 2226 0 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+0 1 17032672 15238 0 0
+/wp-includes/js/quicktags.min.js
+0 1 17009744 3510 0 0
+/wp-includes/js/dist/dom-ready.min.js
+0 1 17008208 331 0 0
+/wp-includes/js/hoverintent-js.min.js
+0 1 17008592 718 0 0
+/wp-includes/js/api-request.min.js
+0 1 17009616 590 0 0
+/wp-includes/js/dist/url.min.js
+0 1 17007936 3733 0 0
+/wp-admin/js/media-upload.min.js
+0 1 17030336 613 0 0
+/wp-includes/js/wplink.min.js
+0 1 17032160 3888 0 0
+/wp-admin/js/svg-painter.js
+0 1 17031632 2130 0 0
+/wp-includes/js/dist/deprecated.min.js
+0 1 17029552 456 0 0
+/wp-includes/js/admin-bar.min.js
+0 1 17031248 1396 0 0
+/wp-includes/js/jquery/jquery.color.min.js
+0 1 17008064 2907 0 0
+/wp-includes/js/jquery/ui/autocomplete.min.js
+0 1 17030592 2889 0 0
+/wp-includes/js/jquery/ui/menu.min.js
+0 1 17031504 3039 0 0
+/wp-admin/admin-ajax.php
+0 12 17032816 1673 0 0
+# End Of Table - urls
+# -sites- (monthly)
+static.132.91.69.159.clients.your-server.de
+0 1 0 503 1 1692216107
+-
+hostedby.privatelayer.com
+0 2 0 1006 1 1692216137
+-
+host015-wh-g-usc1a.wserv.co
+0 9 0 4527 0 0
+-
+102.180.21.192
+0 61 58 366815 1 1692216064
+/wp-admin/
+146.70.116.119
+0 1 0 503 1 1692216046
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+static.132.91.69.159.clients.your-server.de
+0 1 0 503 1 1692216107
+-
+hostedby.privatelayer.com
+0 2 0 1006 1 1692216137
+-
+host015-wh-g-usc1a.wserv.co
+0 9 0 4527 0 0
+-
+102.180.21.192
+0 61 58 366815 1 1692216064
+/wp-admin/
+146.70.116.119
+0 1 0 503 1 1692216046
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://my.wordify.com/
+0 3
+https://sitegroupels.wordifysites.com/wp-admin/
+0 58
+- (Direct Request)
+0 13
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+0 61
+Go-http-client/2.0
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+0 1
+WordPress/6.3; https://sitegroupels.wordifysites.com
+0 9
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+wordify
+0 58 58 366074 1 1692216064
+# End Of Table - usernames

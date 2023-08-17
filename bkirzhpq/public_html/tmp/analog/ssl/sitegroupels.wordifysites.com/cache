@@ -1,0 +1,89 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	58	1	1	15	366074
+D	28205040	28205052
+19586	240	53	1	365739
+19586	241	3	0	201
+19586	242	2	0	134
+1	1	0	0	0	28205041	0	0	28205041	0	0	2907	/wp-includes/js/jquery/jquery.color.min.js?ver=2.2.0
+1	1	0	0	0	28205041	0	0	28205041	0	0	574	/wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=3d6f07197a&1692216071736
+1	1	0	0	0	28205041	0	0	28205041	0	0	18687	/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4
+1	1	0	0	0	28205041	0	0	28205041	0	0	1021	/wp-admin/js/plugin-install.min.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	2889	/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2
+1	1	0	0	0	28205041	0	0	28205041	0	0	7337	/wp-includes/js/underscore.min.js?ver=1.13.4
+1	1	0	0	0	28205041	0	0	28205041	0	0	9285	/wp-admin/js/updates.min.js?ver=6.3
+1	0	0	0	1	0	0	28205052	0	0	28205052	0	/wp-cron.php?doing_wp_cron=1692216741.3737978935241699218750
+1	1	0	0	0	28205041	0	0	28205041	0	0	613	/wp-admin/js/media-upload.min.js?ver=6.3
+1	0	0	1	1	0	28205041	28205040	0	28205041	28205040	0	/sapp-wp-signon.php?pass=slcs0sbka9uiwpcjlgxy5u75g2v4tj0w
+1	0	0	0	1	0	0	28205041	0	0	28205041	0	/favicon.ico
+1	1	0	0	0	28205041	0	0	28205041	0	0	331	/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca
+1	1	0	0	0	28205041	0	0	28205041	0	0	718	/wp-includes/js/hoverintent-js.min.js?ver=2.2.1
+1	1	0	0	0	28205041	0	0	28205041	0	0	1094	/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2
+1	1	0	0	0	28205041	0	0	28205041	0	0	15238	/wp-includes/js/thickbox/loadingAnimation.gif
+1	1	0	0	0	28205041	0	0	28205041	0	0	5952	/wp-includes/css/editor.min.css?ver=6.3
+1	9	0	0	0	28205052	0	0	28205041	0	0	644	/wp-admin/admin-ajax.php
+1	1	0	0	0	28205041	0	0	28205041	0	0	434	/wp-admin/admin-ajax.php?action=dashboard-widgets&widget=dashboard_primary&pagenow=dashboard
+1	0	0	0	1	0	0	28205048	0	0	28205048	0	/wp-cron.php?doing_wp_cron=1692216497.4846379756927490234375
+1	1	0	0	0	28205041	0	0	28205041	0	0	2161	/wp-admin/js/site-health.min.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	775	/wp-includes/js/wp-auth-check.min.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	21	/wp-admin/admin-ajax.php?action=wp-compression-test&test=no&_ajax_nonce=3d6f07197a&1692216072858
+1	1	0	0	0	28205041	0	0	28205041	0	0	101514	/wp-admin/load-styles.php?c=0&dir=ltr&load[chunk_0]=dashicons,admin-bar,site-health,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-poi&load[chunk_1]=nter,widgets,site-icon,l10n,buttons,wp-auth-check&ver=6.3
+1	0	0	0	1	0	0	28205046	0	0	28205046	0	/wp-cron.php?doing_wp_cron=1692216375.3144888877868652343750
+1	1	0	0	0	28205041	0	0	28205041	0	0	3888	/wp-includes/js/wplink.min.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	6650	/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2
+1	1	0	0	0	28205041	0	0	28205041	0	0	1145	/wp-includes/js/shortcode.min.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	1396	/wp-includes/js/admin-bar.min.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	5121	/wp-admin/js/edit-comments.min.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	2226	/wp-admin/js/postbox.min.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	5114	/wp-includes/js/wp-emoji-release.min.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	456	/wp-includes/js/dist/deprecated.min.js?ver=73ad3591e7bc95f4777a
+1	1	0	0	0	28205041	0	0	28205041	0	0	756	/wp-includes/js/wp-util.min.js?ver=6.3
+1	0	0	0	4	0	0	28205042	0	0	28205040	0	/
+1	1	0	0	0	28205041	0	0	28205041	0	0	3691	/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+1	1	0	0	0	28205041	0	0	28205041	0	0	7116	/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+1	1	0	0	0	28205041	0	0	28205041	0	0	590	/wp-includes/js/api-request.min.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	2025	/wp-includes/js/heartbeat.min.js?ver=6.3
+1	0	0	0	1	0	0	28205043	0	0	28205043	0	/wp-cron.php?doing_wp_cron=1692216193.4292769432067871093750
+1	0	0	0	1	0	0	28205050	0	0	28205050	0	/wp-cron.php?doing_wp_cron=1692216620.0128560066223144531250
+1	0	0	0	1	0	0	28205041	0	0	28205041	0	/wp-cron.php?doing_wp_cron=1692216060.2309739589691162109375
+1	1	0	0	0	28205041	0	0	28205041	0	0	3039	/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2
+1	1	0	0	0	28205041	0	0	28205041	0	0	284	/wp-includes/js/wp-sanitize.min.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	3070	/wp-admin/js/dashboard.min.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	944	/wp-includes/js/thickbox/thickbox.css?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	1627	/wp-includes/js/jquery/jquery.query.js?ver=2.2.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	6649	/wp-admin/js/common.min.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	35356	/wp-admin/load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils&ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	3148	/wp-includes/js/clipboard.min.js?ver=2.0.11
+1	1	0	0	0	28205041	0	0	28205041	0	0	2130	/wp-admin/js/svg-painter.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	12366	/wp-admin/load-scripts.php?c=0&load[chunk_0]=hoverIntent,wp-polyfill-inert,regenerator-runtime,wp-polyfill,wp-hooks&ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	2537	/wp-includes/js/wp-lists.min.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	962	/wp-includes/js/dist/a11y.min.js?ver=7032343a947cfccf5608
+1	1	0	0	0	28205041	0	0	28205041	0	0	3510	/wp-includes/js/quicktags.min.js?ver=6.3
+1	1	0	0	0	28205041	0	0	28205041	0	0	1080	/wp-includes/js/wp-ajax-response.min.js?ver=6.3
+1	0	0	0	1	0	0	28205044	0	0	28205044	0	/wp-cron.php?doing_wp_cron=1692216253.4581959247589111328125
+1	0	0	0	1	0	0	28205042	0	0	28205042	0	/wp-cron.php?doing_wp_cron=1692216132.8176229000091552734375
+1	0	0	0	1	0	0	28205047	0	0	28205047	0	/wp-cron.php?doing_wp_cron=1692216436.9247870445251464843750
+1	1	0	0	0	28205041	0	0	28205041	0	0	52117	/wp-includes/js/dist/date.min.js?ver=505e060585ac0f4b6cb6
+1	1	0	0	0	28205041	0	0	28205041	0	0	4031	/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105
+1	1	1	0	0	28205041	0	0	28205041	0	0	17122	/wp-admin/
+1	1	0	0	0	28205041	0	0	28205041	0	0	3733	/wp-includes/js/dist/url.min.js?ver=8814d23f2d64864d280d
+2	58	1	1	1	28205052	28205041	28205041	28205041	28205041	28205041	366074	wordify
+3	1	1	1	1	28205041	28205041	28205040	28205041	28205041	28205040	17122	https://my.wordify.com/
+3	57	0	0	1	28205052	0	28205041	28205041	0	28205041	348952	https://sitegroupels.wordifysites.com/wp-admin/
+4	0	0	0	2	0	0	28205042	0	0	28205042	0	Mozilla/5.0 (X11; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0
+4	0	0	0	1	0	0	28205041	0	0	28205041	0	Go-http-client/2.0
+4	0	0	0	1	0	0	28205040	0	0	28205040	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+4	0	0	0	9	0	0	28205052	0	0	28205041	0	WordPress/6.3; https://sitegroupels.wordifysites.com
+4	58	1	1	2	28205052	28205041	28205041	28205041	28205041	28205040	366074	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+5	0	0	0	1	0	0	28205040	0	0	28205040	0	146.70.116.119
+5	58	1	1	2	28205052	28205041	28205041	28205041	28205041	28205040	366074	102.180.21.192
+5	0	0	0	2	0	0	28205042	0	0	28205042	0	179.43.169.181
+5	0	0	0	9	0	0	28205052	0	0	28205041	0	35.209.219.198
+5	0	0	0	1	0	0	28205041	0	0	28205041	0	159.69.91.132
+z	2	9	0	28205052	557
+z	3	14	0	28205041	8566
+z	4	28	0	28205041	104551
+z	5	7	1	28205041	252400
+c	200	58	28205052
+c	302	1	28205041
+c	401	14	28205052
+c	404	1	28205041
